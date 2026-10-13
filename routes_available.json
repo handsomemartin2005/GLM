@@ -1,0 +1,4 @@
+[
+  ["grok-4.7", "GROK_API"],
+  ["claude-fable-5-1", "ANTHROPIC"]
+]

@@ -1,0 +1,86 @@
+{
+  ".gitignore": {
+    "bytes": 40,
+    "sha256": "57ba1c34f35370d7fff322e51c684632b5e0ceea97cdecc041a047ce6a11d515"
+  },
+  "api.py": {
+    "bytes": 3462,
+    "sha256": "2d246819a4b76ede3edb9b2b192f499565a01466aa0e5323f035cf2ce8ff2844"
+  },
+  "audit.py": {
+    "bytes": 7872,
+    "sha256": "7716d7bc0cd8f395513f75b6d8c5ef988da63f8ce9f080342ca8773b483adfd7"
+  },
+  "evidence.zip": {
+    "bytes": 1111369,
+    "sha256": "4444cdb047a2b121be3c88b9b340ea747cf5469df28deade01cf9f78f8940735"
+  },
+  "fixtures/client/config.json": {
+    "bytes": 99,
+    "sha256": "b33aaa63dff2cc0dd0bfcb8886ebb8f8dd8a6609b5476a72189700a986b00b1b"
+  },
+  "fixtures/client/README.md": {
+    "bytes": 144,
+    "sha256": "9405bf96f2ee954017f5d820992524be817f53a9e9fc5529a0d88a31291db887"
+  },
+  "fixtures/client/usage.json": {
+    "bytes": 43,
+    "sha256": "5a8909f803e42da8eddbddc1b123701cd852307633e02422c4b49b283b59c0e3"
+  },
+  "integrity.py": {
+    "bytes": 2380,
+    "sha256": "d939782a0fb63ebfe51a12d1db1395a7f03b4dcaed43ae1e699bcd0432469e16"
+  },
+  "lab.py": {
+    "bytes": 9263,
+    "sha256": "7d4db06b0a15823a78b4b9c5a1218d8db8c083faf6e63ba3677583a9fb6789da"
+  },
+  "PROTOCOL.md": {
+    "bytes": 6862,
+    "sha256": "724743c2bab9a54332760899fc41195576c725e22e0f6db03b1bb4c4cb14e90f"
+  },
+  "public_fixture/glm_client.json": {
+    "bytes": 156,
+    "sha256": "527038766a39154ed6d8dcd279ad0bc7fe377ae6f234929387c11de4eadd42fa"
+  },
+  "public_fixture/README.md": {
+    "bytes": 799,
+    "sha256": "5e22a7e38c48ceed7dd4dc04b2a6b09f3009a5ba3b35580bcb0f5c3f338ede76"
+  },
+  "README.md": {
+    "bytes": 1920,
+    "sha256": "5c8ee536707c2dbe0b71a1a38ba21e11b8ef594e6c423827866a5476a03d04ee"
+  },
+  "receiver.py": {
+    "bytes": 2221,
+    "sha256": "6188f7ebbf8944316c5a0895aecf16d2d6fa947de2ecf155fc3686e8b0da088e"
+  },
+  "replay_witnesses.py": {
+    "bytes": 1657,
+    "sha256": "c4b34ad7bb891aefa19113f60c73061f9a4b6eb3a12da10a9426a4f34d349c5d"
+  },
+  "report.py": {
+    "bytes": 9221,
+    "sha256": "81c7b1e8fa322fb0feec4e973259a4bb5c4c68522eb2aa7d22d1810f88351a9d"
+  },
+  "RESULTS_ZH.md": {
+    "bytes": 5490,
+    "sha256": "8d26bb3cae6e719dcb9f2063f291d89b888f15944e70f2e3e3b1b93c35d0f5b9"
+  },
+  "routes_available.json": {
+    "bytes": 68,
+    "sha256": "1f4175ad7b384ea8656247714161021f80eb845237d544176602fefbc60bb8f1"
+  },
+  "SCORING_CORRECTION.md": {
+    "bytes": 1665,
+    "sha256": "3d598cd15fa9d200e70cdc64934bb9e9977cebea55e9b6b72b9967e48295a84e"
+  },
+  "study.py": {
+    "bytes": 9130,
+    "sha256": "31968517a948afa661ad56bdd46491c82079abe90d601019f1a3b5db35ab080a"
+  },
+  "tests/test_evidence.py": {
+    "bytes": 5059,
+    "sha256": "2cb28e84aa76fa0d09469ebf730eba20b4d9ff7c0c9695d12d98a0bd0a2ee60e"
+  }
+}
